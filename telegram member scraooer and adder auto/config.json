@@ -1,0 +1,11 @@
+{
+        "group_target": ,// group target from the generated file
+        "group_source": ,//group source u want scrap from , the generated file
+        "accounts": [
+            {
+                "phone": "ur number",
+                "api_id": ,//ur api id
+                "api_hash": "" // ur api hash key
+            }
+        ]
+}
