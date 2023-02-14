@@ -1,0 +1,4 @@
+# Telegram Group Member Adder
+## Disclaimer : Your Account could be banned for at least a week due to the policy to telegram company not due to this code
+#### telegram member scraooer and adder auto folder contain a code from another source with little customization only generates user of tg internally in subsquent folder and added automatically 
+#### telegram member Scrapper and adder Mannualy , this code is also from another source with minor customization it will generate scv file contains scrapped memebr then using adder can again read from the file and add to ur destination telegram group 
